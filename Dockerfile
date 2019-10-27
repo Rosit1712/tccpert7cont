@@ -10,4 +10,3 @@ ADD files/index.html /usr/share/nginx/
 EXPOSE 80/tcp
 
 
-CMD ["-g", "daemon off;"]
